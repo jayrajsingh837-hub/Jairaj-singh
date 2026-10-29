@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning Full Stack Development<br><br>💻 Working with HTML, CSS, JavaScript and Node.js<br><br>🚀 Building projects to improve my  development skills<br><br>🎯  Goal: Become a skilled Full Stack Developer
+🌱 Currently learning Full Stack Development<br><br>💻 Working with HTML, CSS, JavaScript and Node.js<br><br>🚀 Building projects to improve my  development skills<br><br>🎯   Goal: Become a skilled Full Stack Developer
 
 
 ## 🌐 Socials:
